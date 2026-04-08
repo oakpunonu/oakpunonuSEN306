@@ -1,0 +1,2 @@
+This repository contains the source code, documentation, and development materials for my Software Construction projects. The purpose of this project is to demonstrate the principles of software design, implementation, testing, and version control using modern development practices.
+The project focuses on building reliable, maintainable, and well-structured software while applying object-oriented programming concepts and software engineering methodologies.
